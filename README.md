@@ -7,3 +7,16 @@ Besides that, the project also validated that the involvement of protein-protein
 Get_Gene_Expression_Data.R - using the R environment in order to retrieve gene expression dataset from the NCBI website<br>
 biclust.ipynb - the main coding environment used for the study<br>
 biclust_data2.ipynb - applying the same coding to another dataset to test for the performance
+
+### **Plaid Biclustering Model**
+The code is reference from <br>
+@article{padilha2017, <br>
+  title={A systematic comparative evaluation of biclustering techniques}, <br>
+  author={Padilha, Victor A and Campello, Ricardo J G B}, <br>
+  journal={BMC Bioinformatics}, <br>
+  volume={18}, <br>
+  number={1}, <br>
+  pages={55}, <br>
+  year={2017}, <br>
+  publisher={BioMed Central} <br>
+}*
