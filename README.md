@@ -9,7 +9,7 @@ biclust.ipynb - the main coding environment used for the study<br>
 biclust_data2.ipynb - applying the same coding to another dataset to test for the performance
 
 ### **Plaid Biclustering Model**
-The code is reference from <br>
+The plaid model code is reference from <br><br>
 @article{padilha2017, <br>
   title={A systematic comparative evaluation of biclustering techniques}, <br>
   author={Padilha, Victor A and Campello, Ricardo J G B}, <br>
